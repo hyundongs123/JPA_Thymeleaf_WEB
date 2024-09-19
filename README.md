@@ -1,18 +1,28 @@
 
+IDE(통합개발환경) : 인텔리제이 커뮤니티
 
+ 
 
-개발환경 
+개발 언어 : Java 1.8.0
 
-운영체제 : window 
+ 
 
-언어 : Java (JDK17), HTML/CSS, Javascript 
+프레임워크 : Spring Boot 2.5.3
 
-서버 : Apache Tomcat 9 
+ 
 
-DBMS : mariaDB  
+빌드 : Gradle
 
-Framework : SpringBoot Framework, Mybatis3 
+ 
 
-IDE : Inteli j, mariaDB 
+DB(데이터베이스) : MariaDB 10.3.30
 
-JPA , thymeleaf  사용 
+ 
+
+DB 접근 기술 : JPA
+
+ 
+
+View 템플릿 : Thymeleaf
+
+ 
